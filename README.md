@@ -1,5 +1,5 @@
 # LASC
-LASC (Long short-term memory and Attention mechanism for Sequence Classification) is a supervised ML method for animal behavior classification. 
+LASC (Long short-term memory and Attention mechanism for Sequence Classification) is a supervised ML method for animal behavior classification.   
 All code is written in Python. 
 
 # Description
