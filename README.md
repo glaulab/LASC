@@ -3,7 +3,7 @@ LASC (Long short-term memory and Attention mechanism for Sequence Classification
 All code is written in Python. 
 
 # Description
-The workflow of implement LASC includes:   
+The workflow for implementing LASC includes:   
   (a) body part tracking (Deeplabcut)  
   (b) extraction of motion features  
   (c) creation of a manually labeled dataset  
