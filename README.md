@@ -17,7 +17,5 @@ This repository contains code for motion feature extraction, LASC model construc
 • Modify our code for your own project  
 
 # Citation
-Automated behavior classification of julius seizure mutants in Drosophila reveals stereotyped seizure stages with genotype specificity
-Huiqi Zhang, David L Deitcher, C. Geoffrey Lau
-bioRxiv 2025.05.13.653908; doi: https://doi.org/10.1101/2025.05.13.653908
+Huiqi Zhang, David L Deitcher, C. Geoffrey Lau (2025). Automated behavior classification of *julius seizure* mutants in *Drosophila* reveals stereotyped seizure stages with genotype specificity. bioRxiv 2025.05.13.653908; doi: [https://doi.org/10.1101/2025.05.13.653908](https://doi.org/10.1101/2025.05.13.653908)
 
